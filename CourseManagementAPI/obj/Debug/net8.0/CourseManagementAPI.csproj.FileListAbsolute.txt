@@ -1,0 +1,7 @@
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.csproj.AssemblyReference.cache
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.AssemblyInfoInputs.cache
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.AssemblyInfo.cs
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.csproj.CoreCompileInputs.cache
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\uni stuff\web\project 1\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.MvcApplicationPartsAssemblyInfo.cache
