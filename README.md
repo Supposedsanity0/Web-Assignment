@@ -1,3 +1,5 @@
+Karim Hesham Abdelhafiz 211004050
+
 # Course Management System API
 
 This project is an ASP.NET Core Web API demonstrating database services, dependency injection, entity relationships, DTO validation, authentication, authorization, and optimized data querying.
